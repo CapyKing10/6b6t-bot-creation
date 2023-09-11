@@ -1,4 +1,6 @@
 {
     "username": "Bot username here",
-    "password": "Bot password here (6b6t not microsoft)"
+    "password": "Bot password here (6b6t not microsoft)"    
+    "ip": "server ip"
+    "version": "server version"
 }
