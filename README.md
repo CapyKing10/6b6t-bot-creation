@@ -1,4 +1,5 @@
 credits to byrobuff for all the code
+
 i just added server ip and version options in the configs
 # 100% uptime 6b6t bot
 
