@@ -1,6 +1,8 @@
 {
     "username": "Bot username",
     "password": "Bot password (6b6t not microsoft)",
+    "ip": "server ip"
+    "version": "server version"
     "whitelist": [
         "caps sensitive whitelisted user 1",
         "caps sensitive whitelisted user 2"
