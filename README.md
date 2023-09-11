@@ -1,4 +1,5 @@
-credits to byrobuff
+credits to byrobuff for all the code
+i just added server ip and version options in the configs
 # 100% uptime 6b6t bot
 
 This repo serves as a tutorial for developers to create a [6b6t](https://www.6b6t.org) bot using the template provided. We will cover everything from bot creation to hosting.
