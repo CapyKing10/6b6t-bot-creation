@@ -1,0 +1,10 @@
+{
+    "username": "bot username",
+    "password": "bot password (6b6t not microsoft)",
+    "delay": 50,
+    "messages": [
+        "message 1",
+        "message 2",
+        "etc..."
+    ]
+}
