@@ -9,9 +9,9 @@ process.on('warning', e => console.warn(e.stack));
 
 const main = () => {
   bot = mineflayer.createBot({
-    host: "anarchy.6b6t.org",
+    host: "config.ip",
     username: config.username,
-    version: "1.19.4",
+    version: "config.version",
     skipValidation: true,
   });
 
