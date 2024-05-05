@@ -1,6 +1,7 @@
 credits to byrobuff for all the code
 
 i just added server ip and version options in the configs
+
 now also an archive of his template cause he deleted his repo!
 # 100% uptime 6b6t bot (now all servers)
 
